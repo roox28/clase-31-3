@@ -2,3 +2,7 @@ body{
     background-color: black;
     color: aliceblue;
 }
+img{
+    width: 150px;
+    height: auto;
+}
